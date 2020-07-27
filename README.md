@@ -4,7 +4,7 @@ Currently, I'm working on wrapping up my undergraduate Computer Science degree. 
 
 My current focus is Ruby on Rails in order to contribute to [Archive of Our Own](https://github.com/otwcode/otwarchive). But, I want to brush up my JavaScript skills (some places that I want to work at use this) so I'm checking out NodeJS too.
 
-~ *Airi [2020/07/27]*
+~ Airi [2020/07/27]
 
 <!--
 **airi-14x/airi-14x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
