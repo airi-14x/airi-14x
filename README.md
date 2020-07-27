@@ -4,7 +4,7 @@ Currently, I'm working on wrapping up my undergraduate Computer Science degree. 
 
 My current focus is Ruby on Rails in order to contribute to [Archive of Our Own](https://github.com/otwcode/otwarchive). But, I want to brush up my JavaScript skills (some places that I want to work at use this) so I'm checking out NodeJS too.
 
-Here is the link to a [guide for Computer Science / Engineering (ENCS)](https://airi-14x.github.io/Concordia-Master-Guide/) that I wrote based on my experience and Concordia's subreddit. It is still being updated but it should be finalised by the end of 2020.
+I also wrote a guide for [Concordia's Computer Science and Engineering Students](https://airi-14x.github.io/Concordia-Master-Guide/). It is still being updated but it should be finalised by the end of 2020.
 
 <p align="right">~ Airi [2020/07/27]</p>
 
