@@ -1,4 +1,8 @@
-### Welcome!~ 
+### Welcome!~
+
+Currently, I'm working on wrapping up my undergraduate Computer Science degree. That and a bunch of backlogged games, anime, fanfictions and books that seem to keep on growing. This how my [Software Developer Journey](https://airi-14x.github.io/projects) looks so far. I'm looking to improve my skills in mainly these technologies: Ruby on Rails, Python and JavaScript.
+
+My focus at the moment is Ruby on Rails in order to contribute to [Archive of Our Own](https://github.com/otwcode/otwarchive). But, I also wish to explore the world of JavaScript so I'm checking out some NodeJS too.
 
 <!--
 **airi-14x/airi-14x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
