@@ -1,6 +1,6 @@
 <h2 align="center">Welcome!~</h2>
 
-Currently, I'm working on wrapping up my undergraduate Computer Science degree. That and a bunch of evergrowing backlogged games, anime, fanfictions and books. This how my [Software Developer Journey](https://airi-14x.github.io/projects) looks so far. I'm looking to improve my skills in mainly these technologies: Ruby on Rails, Python and JavaScript. Aside from these technologies, I have worked mainly with Java for university and Scala & Python for my internships.
+Currently, I'm working on wrapping up my undergraduate Computer Science degree. That and a bunch of evergrowing [backlogged games](https://howlongtobeat.com/user.php?n=airi_14x), [anime](https://anilist.co/user/airi14x/), fanfictions and [books](https://www.goodreads.com/user/show/69873775-airi-chow). This how my [Software Developer Journey](https://airi-14x.github.io/projects) looks so far. I'm looking to improve my skills in mainly these technologies: Ruby on Rails, Python and JavaScript. Aside from these technologies, I have worked mainly with Java for university and Scala & Python for my internships.
 
 My current focus is [Ruby on Rails](https://github.com/airi-14x/TheOdinProject-Rails) in order to contribute to [Archive of Our Own](https://github.com/otwcode/otwarchive). But, I want to brush up my JavaScript skills (some places that I want to work at use this) so I'm checking out [NodeJS](https://github.com/airi-14x/TheOdinProject-NodeJS) too.
 
