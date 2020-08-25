@@ -6,7 +6,7 @@ My current focus is [Ruby on Rails](https://github.com/airi-14x/TheOdinProject-R
 
 I also wrote a guide for [Concordia's Computer Science and Engineering Students](https://airi-14x.github.io/Concordia-Master-Guide/). It is still being updated but it should be finalised by the end of 2020.
 
-<p align="right">~ Airi [2020/08/11]</p>
+<p align="right">~ Airi [2020/08/25]</p>
 
 <!--
 **airi-14x/airi-14x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
