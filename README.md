@@ -8,6 +8,8 @@ I also wrote a guide for [Concordia's Computer Science and Engineering Students]
 
 <p align="right">~ Airi [2020/10/21]</p>
 
+[![Airi's github stats](https://github-readme-stats.vercel.app/api?username=airi14x)](https://github.com/airi14x/github-readme-stats)
+
 <!--
 **airi-14x/airi-14x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
