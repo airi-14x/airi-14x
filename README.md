@@ -10,7 +10,9 @@ On a side note whilst wrapping up my undergraduate degree, I also got around to 
 
 When it comes to hobbies not related to coding, you can find me enjoying my evergrowing [backlogged games](https://howlongtobeat.com/user.php?n=airi_14x), [anime](https://anilist.co/user/airi14x/), fanfictions and [books](https://www.goodreads.com/user/show/69873775-airi-chow).
 
-Something that I'm looking forward to in 2021 is being a French & Japanese Language Student at l'Université de Montréal! Well this ought to be fun!~
+Something that I'm looking forward to in 2021 is being a French & Japanese Language Student at l'Université de Montréal!
+
+Well this ought to be fun year then!~
 
 <p align="right">~ Airi [2020/12/21]</p>
 
