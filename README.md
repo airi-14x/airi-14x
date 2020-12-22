@@ -6,11 +6,11 @@ This how my [Software Developer Journey](https://airi-14x.github.io/projects) an
 
 My upcoming focus on the side is Ruby on Rails by following TOP's advanced Ruby on Rails curriculum with a goal to contribute to [Archive of Our Own](https://github.com/otwcode/otwarchive) and to brush up on some Javascript by following TOP's NodeJS curriculum. 
 
-On a side note with wrapping up my undergraduate degree, I also got around to finalise a guide for [Concordia's Computer Science and Engineering Students](https://airi-14x.github.io/Concordia-Master-Guide/).
+On a side note whilst wrapping up my undergraduate degree, I also got around to finalise a guide for [Concordia's Computer Science and Engineering Students](https://airi-14x.github.io/Concordia-Master-Guide/).
 
 When it comes to hobbies not related to coding, you can find me enjoying my evergrowing [backlogged games](https://howlongtobeat.com/user.php?n=airi_14x), [anime](https://anilist.co/user/airi14x/), fanfictions and [books](https://www.goodreads.com/user/show/69873775-airi-chow).
 
-I'll also be a French & Japanese Language Student at l'Université de Montréal starting from Winter 2021. Well this ought to be fun!~
+Something that I'm looking forward to in 2021 is being a French & Japanese Language Student at l'Université de Montréal! Well this ought to be fun!~
 
 <p align="right">~ Airi [2020/12/21]</p>
 
