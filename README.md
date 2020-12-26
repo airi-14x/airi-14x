@@ -2,7 +2,7 @@
 
 Now that my Undergraduate Computer Science's journey has reached its final act, it's time for me to start a new chapter as a Junior Software Developer! Time to see how this all unfolds in 2021. Something that I'm looking forward to in 2021 is being a French & Japanese Language Student at l'Université de Montréal!
 
-This how my [Software Developer Journey](https://airi-14x.github.io/projects) and my [Language Studies Journey](https://airi-14x.github.io/languages) looks so far! I'm looking to improve my skills in mainly these technologies: Ruby on Rails, Python and JavaScript. Aside from this, I have worked mainly with Java for university and Scala & Python for my internships.
+This how my [Software Developer Journey](https://airi-14x.github.io/projects) and my [Language Studies Journey](https://airi-14x.github.io/languages) looks so far! I'll be honing my skills in mainly these technologies: Ruby on Rails, Python and JavaScript. Aside from this, I have worked mainly with Java for university and Scala & Python for my internships.
 
 My upcoming focus is Ruby on Rails by following TOP's advanced Ruby on Rails curriculum with a goal to contribute to [Archive of Our Own](https://github.com/otwcode/otwarchive) and to brush up on some Javascript by following TOP's NodeJS curriculum. On a side note whilst wrapping up my undergraduate degree, I also got around to finalise a guide for [Concordia's Computer Science and Engineering Students](https://airi-14x.github.io/Concordia-Master-Guide/).
 
