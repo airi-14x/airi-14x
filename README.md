@@ -8,7 +8,7 @@ My current Winter '21 focus is to work through [Udemy React's course](https://ww
 
 When it comes to hobbies not related to coding, you can find me enjoying my evergrowing [backlogged games](https://howlongtobeat.com/user.php?n=airi_14x), [anime](https://anilist.co/user/airi14x/), fanfictions and [books](https://www.goodreads.com/user/show/69873775-airi-chow).
 
-I look forward to 2021's adventures and I hope the best for your 2021 endeavours as well!~
+I look forward to all of 2021's adventures and I hope the best for everyone's 2021 endeavours as well!~
 
 <p align="right">~ Airi [2021/01/19]</p>
 
