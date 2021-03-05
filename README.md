@@ -10,7 +10,7 @@ When it comes to hobbies not related to coding, you can find me enjoying my ever
 
 I look forward to all of 2021's adventures and I hope the best for everyone's 2021 endeavours as well!~
 
-<p align="right">~ Airi [2021/01/19]</p>
+<p align="right">~ Airi [2021/03/05]</p>
 
 <!--
 ![Airi's github stats](https://github-readme-stats.vercel.app/api?username=airi-14x&show_icons=true&theme=dark)
